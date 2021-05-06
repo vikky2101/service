@@ -9,7 +9,8 @@ Start Steps
  Log Path =  /usr/local/var/lib/kafka-logs
  Run curl -X POST -F 'message=test' http://localhost:8090/kafka/publish
  
- https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273
+
+https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273
  kafka-topics --zookeeper localhost:2181 --list
  http://kafka.apache.org/08/documentation/#configuration
  ======================================================================
