@@ -1,0 +1,272 @@
+[
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 9780641723445,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "The Lightning Thief",
+        "author": "Rick Riordan",
+        "series_t": "Percy Jackson and the Olympians",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "inStock": true,
+        "price": 12.50,
+        "pages_i": 384
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 9781423103349,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "The Sea of Monsters",
+        "author": "Rick Riordan",
+        "series_t": "Percy Jackson and the Olympians",
+        "sequence_i": 2,
+        "genre_s": "fantasy",
+        "inStock": true,
+        "price": 6.49,
+        "pages_i": 304
+      }
+    }
+  },
+  ,
+
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 9781857995879,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "Sophie's World : The Greek Philosophers",
+        "author": "Jostein Gaarder",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "inStock": true,
+        "price": 3.07,
+        "pages_i": 64
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 9781933988177,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "Lucene in Action, Second Edition",
+        "author": "Michael McCandless",
+        "sequence_i": 1,
+        "genre_s": "IT",
+        "inStock": true,
+        "price": 30.50,
+        "pages_i": 475
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 553573403,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "A Game of Thrones",
+        "price": 7.99,
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 1,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 553579908,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "A Clash of Kings",
+        "price": 7.99,
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 2,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 55357342,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "A Storm of Swords",
+        "price": 7.99,
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 3,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 553293354,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "Foundation",
+        "price": 7.99,
+        "inStock": true,
+        "author": "Isaac Asimov",
+        "series_t": "Foundation Novels",
+        "sequence_i": 1,
+        "genre_s": "scifi"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 812521390,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "The Black Company",
+        "price": 6.99,
+        "inStock": false,
+        "author": "Glen Cook",
+        "series_t": "The Chronicles of The Black Company",
+        "sequence_i": 1,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 812550706,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "Ender's Game",
+        "price": 6.99,
+        "inStock": true,
+        "author": "Orson Scott Card",
+        "series_t": "Ender",
+        "sequence_i": 1,
+        "genre_s": "scifi"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 812550706,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "Ender's Game",
+        "price": 6.99,
+        "inStock": true,
+        "author": "Orson Scott Card",
+        "series_t": "Ender",
+        "sequence_i": 1,
+        "genre_s": "scifi"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 380014300,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "Nine Princes In Amber",
+        "price": 6.99,
+        "inStock": true,
+        "author": "Roger Zelazny",
+        "series_t": "the Chronicles of Amber",
+        "sequence_i": 1,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 805080481,
+        "cat": [
+          "book",
+          "hardcover"
+        ],
+        "name": "The Book of Three",
+        "price": 5.99,
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 1,
+        "genre_s": "fantasy"
+      }
+    }
+  },
+  {
+    "topicName": "product_service",
+    "payload": {
+      "params": {
+        "id": 80508049,
+        "cat": [
+          "book",
+          "paperback"
+        ],
+        "name": "The Black Cauldron",
+        "price": 5.99,
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 2,
+        "genre_s": "fantasy"
+      }
+    }
+  }
+]
