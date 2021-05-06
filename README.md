@@ -50,7 +50,7 @@ https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-
        pages_i int
     );
     
-  INSERT INTO datamodel (directed_by,genre,id,initial_release_date,name) VALUES ('Gary Lennon',['Black comedy','Thriller','Psychological thriller','Indie film','Action Film','Crime Thriller','Crime Fiction','Drama'],2006,null,'gary');
+INSERT INTO datamodel (directed_by,genre,id,initial_release_date,name) VALUES ('Gary Lennon',['Black comedy','Thriller','Psychological thriller','Indie film','Action Film','Crime Thriller','Crime Fiction','Drama'],2006,null,'gary');
  ===============================================================================================
  Solr - https://www.baeldung.com/spring-data-solr
  zookeeper-3.4.12/bin/zkServer.sh start
